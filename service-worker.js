@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/yt-video-search-app/precache-manifest.5a678b33c46a2765740cdb73b2bcb038.js"
+  "/yt-video-search-app/precache-manifest.620595ed79ba93e8a5ceb0c6d406ec26.js"
 );
 
 workbox.clientsClaim();

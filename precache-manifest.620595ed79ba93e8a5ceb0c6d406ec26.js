@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/yt-video-search-app/static/js/runtime~main.277d2c78.js"
   },
   {
-    "revision": "b01f9c919067e502c10d",
-    "url": "/yt-video-search-app/static/js/main.e71a64b9.chunk.js"
+    "revision": "c1237ef7c628c3cc5477",
+    "url": "/yt-video-search-app/static/js/main.1efd0315.chunk.js"
   },
   {
     "revision": "ee788716df30e01b1a45",
     "url": "/yt-video-search-app/static/js/2.a172d5a2.chunk.js"
   },
   {
-    "revision": "b01f9c919067e502c10d",
+    "revision": "c1237ef7c628c3cc5477",
     "url": "/yt-video-search-app/static/css/main.9617c50e.chunk.css"
   },
   {
-    "revision": "76718a2609f1a33349a4e049e6a0bdbf",
+    "revision": "c3e0c14d6f7c7640fd46293cb1cb2d57",
     "url": "/yt-video-search-app/index.html"
   }
 ];
