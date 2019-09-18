@@ -1,13 +1,15 @@
 {
-  "main.css": "/yt-video-search-app/static/css/main.9617c50e.chunk.css",
-  "main.js": "/yt-video-search-app/static/js/main.1efd0315.chunk.js",
-  "main.js.map": "/yt-video-search-app/static/js/main.1efd0315.chunk.js.map",
-  "runtime~main.js": "/yt-video-search-app/static/js/runtime~main.277d2c78.js",
-  "runtime~main.js.map": "/yt-video-search-app/static/js/runtime~main.277d2c78.js.map",
-  "static/js/2.a172d5a2.chunk.js": "/yt-video-search-app/static/js/2.a172d5a2.chunk.js",
-  "static/js/2.a172d5a2.chunk.js.map": "/yt-video-search-app/static/js/2.a172d5a2.chunk.js.map",
-  "index.html": "/yt-video-search-app/index.html",
-  "precache-manifest.620595ed79ba93e8a5ceb0c6d406ec26.js": "/yt-video-search-app/precache-manifest.620595ed79ba93e8a5ceb0c6d406ec26.js",
-  "service-worker.js": "/yt-video-search-app/service-worker.js",
-  "static/css/main.9617c50e.chunk.css.map": "/yt-video-search-app/static/css/main.9617c50e.chunk.css.map"
+  "files": {
+    "main.css": "/yt-video-search-app/static/css/main.a48f476f.chunk.css",
+    "main.js": "/yt-video-search-app/static/js/main.6e2885a9.chunk.js",
+    "main.js.map": "/yt-video-search-app/static/js/main.6e2885a9.chunk.js.map",
+    "runtime~main.js": "/yt-video-search-app/static/js/runtime~main.76d88904.js",
+    "runtime~main.js.map": "/yt-video-search-app/static/js/runtime~main.76d88904.js.map",
+    "static/js/2.cfb055af.chunk.js": "/yt-video-search-app/static/js/2.cfb055af.chunk.js",
+    "static/js/2.cfb055af.chunk.js.map": "/yt-video-search-app/static/js/2.cfb055af.chunk.js.map",
+    "index.html": "/yt-video-search-app/index.html",
+    "precache-manifest.9ff736dd2037b52d9a080144bf2b1192.js": "/yt-video-search-app/precache-manifest.9ff736dd2037b52d9a080144bf2b1192.js",
+    "service-worker.js": "/yt-video-search-app/service-worker.js",
+    "static/css/main.a48f476f.chunk.css.map": "/yt-video-search-app/static/css/main.a48f476f.chunk.css.map"
+  }
 }
